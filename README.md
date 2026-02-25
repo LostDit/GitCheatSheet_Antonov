@@ -27,7 +27,7 @@ git commit -m "comment"
 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git <команда подключения к удаленному репозиторию, если это было необходимо>
+git remote add origin https://github.com/LostDit/Test_Repoz
 git push https://github.com/LostDit/Test_Repoz
 ```
 
